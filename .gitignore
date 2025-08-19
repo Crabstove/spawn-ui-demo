@@ -1,0 +1,11 @@
+# Screenshots (for README only, not part of the codebase)
+Screenshot*.png
+*.png
+!assets/images/*.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude config
+.claude/
